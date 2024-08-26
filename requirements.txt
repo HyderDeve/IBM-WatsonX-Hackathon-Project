@@ -1,4 +1,5 @@
 asttokens==2.4.1
+setuptools==68.1.2
 colorama==0.4.6
 comm==0.2.2
 comtypes==1.4.6
